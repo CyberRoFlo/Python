@@ -1,0 +1,3 @@
+#Python one-liner to reverse a string
+
+python -c "print '<string>'[::-1]"
